@@ -1,0 +1,949 @@
+{
+  "graph": {
+    "nodes": {
+      "disease": 1903,
+      "drug": 1706,
+      "protein": 1588,
+      "effect": 970,
+      "atc": 801
+    },
+    "edges": {
+      "side_effect": 58639,
+      "contraindication": 26067,
+      "indication": 7291,
+      "ppi": 6793,
+      "target": 6692,
+      "in_class": 5392,
+      "enzyme": 3809,
+      "off_label": 2307,
+      "transporter": 2082,
+      "carrier": 542
+    }
+  },
+  "ddi": {
+    "n_drugs": 1706,
+    "possible_pairs": 1454365,
+    "positives": {
+      "tdc": 191402,
+      "primekg": 457564,
+      "ddinter": 94569,
+      "merged": 526105
+    },
+    "density": {
+      "tdc": 0.13160520227040667,
+      "merged": 0.36174206612507864
+    },
+    "source_overlap": {
+      "PrimeKG": 277463,
+      "TDC+PrimeKG": 116207,
+      "TDC": 37866,
+      "TDC+PrimeKG+DDInter": 33554,
+      "PrimeKG+DDInter": 30340,
+      "DDInter": 26900,
+      "TDC+DDInter": 3775
+    },
+    "degree_hist": [
+      {
+        "lo": 1,
+        "hi": 1,
+        "count": 9
+      },
+      {
+        "lo": 2,
+        "hi": 2,
+        "count": 7
+      },
+      {
+        "lo": 3,
+        "hi": 3,
+        "count": 4
+      },
+      {
+        "lo": 4,
+        "hi": 6,
+        "count": 11
+      },
+      {
+        "lo": 7,
+        "hi": 10,
+        "count": 11
+      },
+      {
+        "lo": 11,
+        "hi": 17,
+        "count": 16
+      },
+      {
+        "lo": 18,
+        "hi": 28,
+        "count": 5
+      },
+      {
+        "lo": 29,
+        "hi": 46,
+        "count": 19
+      },
+      {
+        "lo": 47,
+        "hi": 76,
+        "count": 45
+      },
+      {
+        "lo": 77,
+        "hi": 123,
+        "count": 62
+      },
+      {
+        "lo": 124,
+        "hi": 201,
+        "count": 66
+      },
+      {
+        "lo": 202,
+        "hi": 326,
+        "count": 141
+      },
+      {
+        "lo": 327,
+        "hi": 528,
+        "count": 261
+      },
+      {
+        "lo": 529,
+        "hi": 856,
+        "count": 577
+      },
+      {
+        "lo": 857,
+        "hi": 1388,
+        "count": 472
+      }
+    ],
+    "degree_hist_tdc": [
+      {
+        "lo": 1,
+        "hi": 1,
+        "count": 68
+      },
+      {
+        "lo": 2,
+        "hi": 3,
+        "count": 41
+      },
+      {
+        "lo": 4,
+        "hi": 5,
+        "count": 29
+      },
+      {
+        "lo": 6,
+        "hi": 9,
+        "count": 63
+      },
+      {
+        "lo": 10,
+        "hi": 14,
+        "count": 51
+      },
+      {
+        "lo": 15,
+        "hi": 23,
+        "count": 44
+      },
+      {
+        "lo": 24,
+        "hi": 37,
+        "count": 79
+      },
+      {
+        "lo": 38,
+        "hi": 59,
+        "count": 58
+      },
+      {
+        "lo": 60,
+        "hi": 93,
+        "count": 134
+      },
+      {
+        "lo": 94,
+        "hi": 147,
+        "count": 187
+      },
+      {
+        "lo": 148,
+        "hi": 233,
+        "count": 220
+      },
+      {
+        "lo": 234,
+        "hi": 367,
+        "count": 343
+      },
+      {
+        "lo": 368,
+        "hi": 579,
+        "count": 287
+      },
+      {
+        "lo": 580,
+        "hi": 913,
+        "count": 102
+      }
+    ],
+    "drugs_without_interactions": 0,
+    "top_drugs": [
+      {
+        "name": "Quinidine",
+        "id": "DB00908",
+        "degree": 1388
+      },
+      {
+        "name": "Cyclosporine",
+        "id": "DB00091",
+        "degree": 1382
+      },
+      {
+        "name": "Chlorpromazine",
+        "id": "DB00477",
+        "degree": 1358
+      },
+      {
+        "name": "Carbamazepine",
+        "id": "DB00564",
+        "degree": 1342
+      },
+      {
+        "name": "Clozapine",
+        "id": "DB00363",
+        "degree": 1341
+      },
+      {
+        "name": "Haloperidol",
+        "id": "DB00502",
+        "degree": 1334
+      },
+      {
+        "name": "Amitriptyline",
+        "id": "DB00321",
+        "degree": 1333
+      },
+      {
+        "name": "Imipramine",
+        "id": "DB00458",
+        "degree": 1324
+      },
+      {
+        "name": "Venlafaxine",
+        "id": "DB00285",
+        "degree": 1321
+      },
+      {
+        "name": "Clomipramine",
+        "id": "DB01242",
+        "degree": 1318
+      },
+      {
+        "name": "Duloxetine",
+        "id": "DB00476",
+        "degree": 1311
+      },
+      {
+        "name": "Doxepin",
+        "id": "DB01142",
+        "degree": 1310
+      },
+      {
+        "name": "Nefazodone",
+        "id": "DB01149",
+        "degree": 1308
+      },
+      {
+        "name": "Verapamil",
+        "id": "DB00661",
+        "degree": 1295
+      },
+      {
+        "name": "Warfarin",
+        "id": "DB00682",
+        "degree": 1278
+      },
+      {
+        "name": "Desipramine",
+        "id": "DB01151",
+        "degree": 1271
+      },
+      {
+        "name": "Quetiapine",
+        "id": "DB01224",
+        "degree": 1271
+      },
+      {
+        "name": "Fluvoxamine",
+        "id": "DB00176",
+        "degree": 1260
+      },
+      {
+        "name": "Promethazine",
+        "id": "DB01069",
+        "degree": 1260
+      },
+      {
+        "name": "Methadone",
+        "id": "DB00333",
+        "degree": 1254
+      }
+    ],
+    "type_counts": [
+      {
+        "type_id": 49,
+        "template": "The risk or severity of adverse effects can be increased when #Drug1 is combined with #Drug2.",
+        "count": 60725
+      },
+      {
+        "type_id": 47,
+        "template": "The metabolism of #Drug2 can be decreased when combined with #Drug1.",
+        "count": 34359
+      },
+      {
+        "type_id": 73,
+        "template": "The serum concentration of #Drug2 can be increased when it is combined with #Drug1.",
+        "count": 23540
+      },
+      {
+        "type_id": 75,
+        "template": "The serum concentration of #Drug2 can be decreased when it is combined with #Drug1.",
+        "count": 9357
+      },
+      {
+        "type_id": 60,
+        "template": "#Drug1 may increase the hypotensive activities of #Drug2.",
+        "count": 8393
+      },
+      {
+        "type_id": 70,
+        "template": "The therapeutic efficacy of #Drug2 can be decreased when used in combination with #Drug1.",
+        "count": 7786
+      },
+      {
+        "type_id": 20,
+        "template": "#Drug1 may increase the QTc-prolonging activities of #Drug2.",
+        "count": 6140
+      },
+      {
+        "type_id": 16,
+        "template": "#Drug1 may increase the central nervous system depressant (CNS depressant) activities of #Drug2.",
+        "count": 5413
+      },
+      {
+        "type_id": 4,
+        "template": "The metabolism of #Drug2 can be increased when combined with #Drug1.",
+        "count": 5011
+      },
+      {
+        "type_id": 6,
+        "template": "#Drug1 may increase the anticoagulant activities of #Drug2.",
+        "count": 3160
+      },
+      {
+        "type_id": 37,
+        "template": "#Drug1 may decrease the antihypertensive activities of #Drug2.",
+        "count": 3089
+      },
+      {
+        "type_id": 9,
+        "template": "#Drug1 may increase the hypoglycemic activities of #Drug2.",
+        "count": 2109
+      },
+      {
+        "type_id": 72,
+        "template": "#Drug1 may decrease the excretion rate of #Drug2 which could result in a higher serum level.",
+        "count": 1825
+      },
+      {
+        "type_id": 54,
+        "template": "#Drug1 may increase the bradycardic activities of #Drug2.",
+        "count": 1277
+      },
+      {
+        "type_id": 83,
+        "template": "#Drug1 may increase the hypokalemic activities of #Drug2.",
+        "count": 1204
+      },
+      {
+        "type_id": 58,
+        "template": "#Drug1 may decrease the cardiotoxic activities of #Drug2.",
+        "count": 1043
+      },
+      {
+        "type_id": 32,
+        "template": "#Drug1 may increase the sedative activities of #Drug2.",
+        "count": 1011
+      },
+      {
+        "type_id": 27,
+        "template": "#Drug1 may increase the neuroexcitatory activities of #Drug2.",
+        "count": 936
+      },
+      {
+        "type_id": 67,
+        "template": "#Drug1 can cause a decrease in the absorption of #Drug2 resulting in a reduced serum concentration and potentially a decrease in efficacy.",
+        "count": 930
+      },
+      {
+        "type_id": 64,
+        "template": "#Drug1 may increase the serotonergic activities of #Drug2.",
+        "count": 796
+      },
+      {
+        "type_id": 25,
+        "template": "#Drug1 may increase the atrioventricular blocking (AV block) activities of #Drug2.",
+        "count": 716
+      },
+      {
+        "type_id": 71,
+        "template": "#Drug1 may increase the hypertensive activities of #Drug2.",
+        "count": 671
+      },
+      {
+        "type_id": 57,
+        "template": "#Drug1 may increase the nephrotoxic activities of #Drug2.",
+        "count": 664
+      },
+      {
+        "type_id": 10,
+        "template": "#Drug1 may increase the antihypertensive activities of #Drug2.",
+        "count": 629
+      },
+      {
+        "type_id": 30,
+        "template": "#Drug1 may increase the orthostatic hypotensive activities of #Drug2.",
+        "count": 616
+      },
+      {
+        "type_id": 76,
+        "template": "#Drug1 may decrease the sedative activities of #Drug2.",
+        "count": 558
+      },
+      {
+        "type_id": 77,
+        "template": "The serum concentration of the active metabolites of #Drug2 can be increased when #Drug2 is used in combination with #Drug1.",
+        "count": 538
+      },
+      {
+        "type_id": 3,
+        "template": "The bioavailability of #Drug2 can be decreased when combined with #Drug1.",
+        "count": 518
+      },
+      {
+        "type_id": 61,
+        "template": "#Drug1 may decrease the stimulatory activities of #Drug2.",
+        "count": 498
+      },
+      {
+        "type_id": 33,
+        "template": "The risk or severity of QTc prolongation can be increased when #Drug1 is combined with #Drug2.",
+        "count": 442
+      },
+      {
+        "type_id": 21,
+        "template": "#Drug1 may increase the neuromuscular blocking activities of #Drug2.",
+        "count": 428
+      },
+      {
+        "type_id": 74,
+        "template": "#Drug1 may increase the fluid retaining activities of #Drug2.",
+        "count": 422
+      },
+      {
+        "type_id": 85,
+        "template": "#Drug1 may increase the tachycardic activities of #Drug2.",
+        "count": 372
+      },
+      {
+        "type_id": 14,
+        "template": "#Drug1 may decrease the bronchodilatory activities of #Drug2.",
+        "count": 361
+      },
+      {
+        "type_id": 82,
+        "template": "#Drug1 may increase the arrhythmogenic activities of #Drug2.",
+        "count": 355
+      },
+      {
+        "type_id": 53,
+        "template": "#Drug1 may increase the antiplatelet activities of #Drug2.",
+        "count": 336
+      },
+      {
+        "type_id": 29,
+        "template": "#Drug1 may decrease the diuretic activities of #Drug2.",
+        "count": 324
+      },
+      {
+        "type_id": 2,
+        "template": "#Drug1 may increase the anticholinergic activities of #Drug2.",
+        "count": 323
+      },
+      {
+        "type_id": 34,
+        "template": "#Drug1 may increase the immunosuppressive activities of #Drug2.",
+        "count": 312
+      },
+      {
+        "type_id": 5,
+        "template": "#Drug1 may decrease the vasoconstricting activities of #Drug2.",
+        "count": 309
+      },
+      {
+        "type_id": 11,
+        "template": "The serum concentration of the active metabolites of #Drug2 can be reduced when #Drug2 is used in combination with #Drug1 resulting in a loss in efficacy.",
+        "count": 305
+      },
+      {
+        "type_id": 40,
+        "template": "#Drug1 may increase the respiratory depressant activities of #Drug2.",
+        "count": 300
+      },
+      {
+        "type_id": 68,
+        "template": "#Drug1 may increase the hyperkalemic activities of #Drug2.",
+        "count": 276
+      },
+      {
+        "type_id": 69,
+        "template": "#Drug1 may increase the analgesic activities of #Drug2.",
+        "count": 276
+      },
+      {
+        "type_id": 8,
+        "template": "The therapeutic efficacy of #Drug2 can be increased when used in combination with #Drug1.",
+        "count": 244
+      },
+      {
+        "type_id": 12,
+        "template": "#Drug1 may decrease the anticoagulant activities of #Drug2.",
+        "count": 238
+      },
+      {
+        "type_id": 15,
+        "template": "#Drug1 may increase the cardiotoxic activities of #Drug2.",
+        "count": 202
+      },
+      {
+        "type_id": 24,
+        "template": "#Drug1 may increase the hypocalcemic activities of #Drug2.",
+        "count": 180
+      },
+      {
+        "type_id": 39,
+        "template": "#Drug1 may increase the constipating activities of #Drug2.",
+        "count": 148
+      },
+      {
+        "type_id": 66,
+        "template": "The risk or severity of bleeding can be increased when #Drug1 is combined with #Drug2.",
+        "count": 128
+      },
+      {
+        "type_id": 55,
+        "template": "#Drug1 may increase the hyponatremic activities of #Drug2.",
+        "count": 118
+      },
+      {
+        "type_id": 19,
+        "template": "#Drug1 may increase the vasoconstricting activities of #Drug2.",
+        "count": 109
+      },
+      {
+        "type_id": 81,
+        "template": "#Drug1 may increase the thrombogenic activities of #Drug2.",
+        "count": 108
+      },
+      {
+        "type_id": 22,
+        "template": "#Drug1 may increase the adverse neuromuscular activities of #Drug2.",
+        "count": 94
+      },
+      {
+        "type_id": 36,
+        "template": "#Drug1 may increase the antipsychotic activities of #Drug2.",
+        "count": 94
+      },
+      {
+        "type_id": 17,
+        "template": "#Drug1 may decrease the neuromuscular blocking activities of #Drug2.",
+        "count": 83
+      },
+      {
+        "type_id": 51,
+        "template": "#Drug1 may increase the hypercalcemic activities of #Drug2.",
+        "count": 83
+      },
+      {
+        "type_id": 18,
+        "template": "#Drug1 can cause an increase in the absorption of #Drug2 resulting in an increased serum concentration and potentially a worsening of adverse effects.",
+        "count": 82
+      },
+      {
+        "type_id": 48,
+        "template": "#Drug1 may increase the myopathic rhabdomyolysis activities of #Drug2.",
+        "count": 69
+      },
+      {
+        "type_id": 35,
+        "template": "#Drug1 may increase the neurotoxic activities of #Drug2.",
+        "count": 69
+      },
+      {
+        "type_id": 84,
+        "template": "#Drug1 may increase the vasopressor activities of #Drug2.",
+        "count": 65
+      },
+      {
+        "type_id": 80,
+        "template": "#Drug1 may increase the hepatotoxic activities of #Drug2.",
+        "count": 63
+      },
+      {
+        "type_id": 23,
+        "template": "#Drug1 may increase the stimulatory activities of #Drug2.",
+        "count": 56
+      },
+      {
+        "type_id": 13,
+        "template": "The absorption of #Drug2 can be decreased when combined with #Drug1.",
+        "count": 45
+      },
+      {
+        "type_id": 59,
+        "template": "#Drug1 may increase the ulcerogenic activities of #Drug2.",
+        "count": 43
+      },
+      {
+        "type_id": 63,
+        "template": "#Drug1 may increase the myelosuppressive activities of #Drug2.",
+        "count": 34
+      },
+      {
+        "type_id": 56,
+        "template": "The risk or severity of hypotension can be increased when #Drug1 is combined with #Drug2.",
+        "count": 33
+      },
+      {
+        "type_id": 45,
+        "template": "#Drug1 may decrease effectiveness of #Drug2 as a diagnostic agent.",
+        "count": 33
+      },
+      {
+        "type_id": 38,
+        "template": "#Drug1 may increase the vasodilatory activities of #Drug2.",
+        "count": 33
+      },
+      {
+        "type_id": 65,
+        "template": "#Drug1 may increase the excretion rate of #Drug2 which could result in a lower serum level and potentially a reduction in efficacy.",
+        "count": 32
+      },
+      {
+        "type_id": 78,
+        "template": "#Drug1 may increase the hyperglycemic activities of #Drug2.",
+        "count": 28
+      },
+      {
+        "type_id": 79,
+        "template": "#Drug1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of #Drug2.",
+        "count": 27
+      },
+      {
+        "type_id": 86,
+        "template": "The risk of a hypersensitivity reaction to #Drug2 is increased when it is combined with #Drug1.",
+        "count": 27
+      },
+      {
+        "type_id": 50,
+        "template": "The risk or severity of heart failure can be increased when #Drug2 is combined with #Drug1.",
+        "count": 26
+      },
+      {
+        "type_id": 46,
+        "template": "#Drug1 may increase the bronchoconstrictory activities of #Drug2.",
+        "count": 26
+      },
+      {
+        "type_id": 7,
+        "template": "#Drug1 may increase the ototoxic activities of #Drug2.",
+        "count": 21
+      },
+      {
+        "type_id": 41,
+        "template": "#Drug1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of #Drug2.",
+        "count": 14
+      },
+      {
+        "type_id": 31,
+        "template": "The risk or severity of hypertension can be increased when #Drug2 is combined with #Drug1.",
+        "count": 14
+      },
+      {
+        "type_id": 44,
+        "template": "#Drug1 may increase the central neurotoxic activities of #Drug2.",
+        "count": 13
+      },
+      {
+        "type_id": 1,
+        "template": "#Drug1 may increase the photosensitizing activities of #Drug2.",
+        "count": 11
+      },
+      {
+        "type_id": 28,
+        "template": "#Drug1 may increase the dermatologic adverse activities of #Drug2.",
+        "count": 11
+      },
+      {
+        "type_id": 43,
+        "template": "The protein binding of #Drug2 can be decreased when combined with #Drug1.",
+        "count": 11
+      },
+      {
+        "type_id": 62,
+        "template": "The bioavailability of #Drug2 can be increased when combined with #Drug1.",
+        "count": 11
+      },
+      {
+        "type_id": 52,
+        "template": "#Drug1 may decrease the analgesic activities of #Drug2.",
+        "count": 10
+      },
+      {
+        "type_id": 26,
+        "template": "#Drug1 may decrease the antiplatelet activities of #Drug2.",
+        "count": 7
+      },
+      {
+        "type_id": 42,
+        "template": "The risk or severity of hyperkalemia can be increased when #Drug1 is combined with #Drug2.",
+        "count": 6
+      }
+    ],
+    "ddinter_levels": {
+      "Moderate": 49179,
+      "Unknown": 27232,
+      "Major": 14294,
+      "Minor": 3864
+    }
+  },
+  "cold_start": {
+    "drugs_without_protein_links": 183,
+    "drugs_without_side_effects": 723,
+    "drugs_with_no_kg_edges": 33,
+    "drugs_not_in_primekg": 15
+  },
+  "twosides": {
+    "pairs": 50150,
+    "drugs": 566,
+    "side_effects": 915,
+    "rows": 3652285,
+    "top_side_effects": [
+      {
+        "name": "arterial pressure NOS decreased",
+        "pairs": 22791
+      },
+      {
+        "name": "anaemia",
+        "pairs": 21272
+      },
+      {
+        "name": "Difficulty breathing",
+        "pairs": 20855
+      },
+      {
+        "name": "nausea",
+        "pairs": 20029
+      },
+      {
+        "name": "neumonia",
+        "pairs": 19268
+      },
+      {
+        "name": "Fatigue",
+        "pairs": 19242
+      },
+      {
+        "name": "Pain",
+        "pairs": 19166
+      },
+      {
+        "name": "diarrhea",
+        "pairs": 18903
+      },
+      {
+        "name": "asthenia",
+        "pairs": 18772
+      },
+      {
+        "name": "emesis",
+        "pairs": 18165
+      },
+      {
+        "name": "edema extremities",
+        "pairs": 17571
+      },
+      {
+        "name": "body temperature increased",
+        "pairs": 17539
+      },
+      {
+        "name": "pleural pain",
+        "pairs": 17297
+      },
+      {
+        "name": "Hypoventilation",
+        "pairs": 17261
+      },
+      {
+        "name": "abdominal pain",
+        "pairs": 16925
+      },
+      {
+        "name": "chest pain",
+        "pairs": 16917
+      },
+      {
+        "name": "dizziness",
+        "pairs": 16146
+      },
+      {
+        "name": "Back Ache",
+        "pairs": 15857
+      },
+      {
+        "name": "Head ache",
+        "pairs": 15836
+      },
+      {
+        "name": "High blood pressure",
+        "pairs": 15703
+      },
+      {
+        "name": "confusion",
+        "pairs": 15445
+      },
+      {
+        "name": "Anxiety",
+        "pairs": 15412
+      },
+      {
+        "name": "hyperglycaemia",
+        "pairs": 15231
+      },
+      {
+        "name": "kidney failure",
+        "pairs": 15052
+      },
+      {
+        "name": "dehydration",
+        "pairs": 15025
+      },
+      {
+        "name": "loss of weight",
+        "pairs": 14948
+      },
+      {
+        "name": "edema",
+        "pairs": 14848
+      },
+      {
+        "name": "Anorexia",
+        "pairs": 14554
+      },
+      {
+        "name": "neuropathy",
+        "pairs": 14519
+      },
+      {
+        "name": "Aching joints",
+        "pairs": 14347
+      }
+    ],
+    "side_effect_freq_hist": [
+      {
+        "lo": 1,
+        "hi": 1,
+        "count": 0
+      },
+      {
+        "lo": 2,
+        "hi": 3,
+        "count": 0
+      },
+      {
+        "lo": 4,
+        "hi": 6,
+        "count": 0
+      },
+      {
+        "lo": 7,
+        "hi": 14,
+        "count": 0
+      },
+      {
+        "lo": 15,
+        "hi": 27,
+        "count": 0
+      },
+      {
+        "lo": 28,
+        "hi": 54,
+        "count": 0
+      },
+      {
+        "lo": 55,
+        "hi": 107,
+        "count": 0
+      },
+      {
+        "lo": 108,
+        "hi": 210,
+        "count": 0
+      },
+      {
+        "lo": 211,
+        "hi": 411,
+        "count": 0
+      },
+      {
+        "lo": 412,
+        "hi": 803,
+        "count": 130
+      },
+      {
+        "lo": 804,
+        "hi": 1568,
+        "count": 181
+      },
+      {
+        "lo": 1569,
+        "hi": 3063,
+        "count": 212
+      },
+      {
+        "lo": 3064,
+        "hi": 5980,
+        "count": 193
+      },
+      {
+        "lo": 5981,
+        "hi": 11674,
+        "count": 149
+      },
+      {
+        "lo": 11675,
+        "hi": 22791,
+        "count": 50
+      }
+    ],
+    "positive_rate_median": 0.050767696909272186,
+    "side_effects_per_pair_median": 53.0
+  }
+}

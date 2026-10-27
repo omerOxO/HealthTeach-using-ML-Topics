@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/
+artifacts/
+web/node_modules/
+web/dist/
+reports/run_all.log

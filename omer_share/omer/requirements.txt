@@ -1,0 +1,20 @@
+# Install torch first with the CUDA build that matches your GPU, e.g.
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu124
+# (CPU-only also works: pip install torch==2.5.1)
+torch==2.5.1
+torch_geometric==2.6.1
+rdkit
+scikit-learn
+xgboost
+pandas
+pyarrow
+networkx
+requests
+tqdm
+fastapi
+uvicorn[standard]
+# Prescription NER (ddi/ner.py). Optional: without them the paste tab falls back to name matching.
+transformers==4.46.3
+spacy>=3.8,<3.9
+# The scispaCy model pins spacy<3.8 (which would pull numpy<2), so install it separately without its deps:
+#   pip install --no-deps https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_ner_bc5cdr_md-0.5.4.tar.gz

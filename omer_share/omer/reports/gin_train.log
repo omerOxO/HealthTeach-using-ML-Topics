@@ -1,0 +1,232 @@
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   1 loss=3.0816 val AUPRC=0.7389 (9s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   2 loss=2.4637 val AUPRC=0.8332 (18s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   3 loss=2.0002 val AUPRC=0.8951 (27s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   4 loss=1.7014 val AUPRC=0.9248 (36s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   5 loss=1.5410 val AUPRC=0.9396 (44s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   6 loss=1.4454 val AUPRC=0.9496 (53s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   7 loss=1.3785 val AUPRC=0.9556 (62s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   8 loss=1.3232 val AUPRC=0.9601 (71s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch   9 loss=1.2884 val AUPRC=0.9656 (80s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  10 loss=1.2555 val AUPRC=0.9666 (89s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  11 loss=1.2240 val AUPRC=0.9718 (98s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  12 loss=1.1995 val AUPRC=0.9734 (107s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  13 loss=1.1761 val AUPRC=0.9743 (116s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  14 loss=1.1611 val AUPRC=0.9755 (125s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  15 loss=1.1408 val AUPRC=0.9769 (135s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  16 loss=1.1253 val AUPRC=0.9786 (145s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  17 loss=1.1116 val AUPRC=0.9795 (155s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  18 loss=1.1003 val AUPRC=0.9811 (164s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  19 loss=1.0869 val AUPRC=0.9813 (173s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  20 loss=1.0723 val AUPRC=0.9825 (182s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  21 loss=1.0667 val AUPRC=0.9829 (191s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  22 loss=1.0560 val AUPRC=0.9833 (201s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  23 loss=1.0462 val AUPRC=0.9837 (210s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  24 loss=1.0400 val AUPRC=0.9843 (218s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  25 loss=1.0305 val AUPRC=0.9850 (227s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  26 loss=1.0222 val AUPRC=0.9855 (236s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  27 loss=1.0167 val AUPRC=0.9854 (245s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  28 loss=1.0118 val AUPRC=0.9859 (254s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  29 loss=1.0021 val AUPRC=0.9866 (263s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  30 loss=0.9986 val AUPRC=0.9867 (272s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  31 loss=0.9890 val AUPRC=0.9873 (281s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  32 loss=0.9848 val AUPRC=0.9885 (290s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  33 loss=0.9773 val AUPRC=0.9886 (299s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  34 loss=0.9729 val AUPRC=0.9877 (308s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  35 loss=0.9669 val AUPRC=0.9884 (317s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  36 loss=0.9658 val AUPRC=0.9893 (326s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  37 loss=0.9567 val AUPRC=0.9888 (335s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  38 loss=0.9551 val AUPRC=0.9896 (345s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  39 loss=0.9528 val AUPRC=0.9886 (354s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  40 loss=0.9442 val AUPRC=0.9886 (365s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  41 loss=0.9418 val AUPRC=0.9890 (374s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  42 loss=0.9362 val AUPRC=0.9901 (384s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  43 loss=0.9339 val AUPRC=0.9897 (394s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  44 loss=0.9284 val AUPRC=0.9896 (404s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  45 loss=0.9270 val AUPRC=0.9898 (415s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  46 loss=0.9234 val AUPRC=0.9904 (425s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  47 loss=0.9178 val AUPRC=0.9908 (436s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  48 loss=0.9128 val AUPRC=0.9900 (447s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  49 loss=0.9107 val AUPRC=0.9901 (457s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  50 loss=0.9093 val AUPRC=0.9908 (467s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  51 loss=0.9051 val AUPRC=0.9904 (477s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  52 loss=0.9027 val AUPRC=0.9910 (487s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  53 loss=0.8994 val AUPRC=0.9907 (497s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  54 loss=0.8969 val AUPRC=0.9916 (507s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  55 loss=0.8927 val AUPRC=0.9910 (517s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  56 loss=0.8927 val AUPRC=0.9910 (527s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  57 loss=0.8886 val AUPRC=0.9913 (536s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  58 loss=0.8846 val AUPRC=0.9916 (545s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  59 loss=0.8834 val AUPRC=0.9917 (554s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/random] epoch  60 loss=0.8804 val AUPRC=0.9920 (564s)
+D:\test\omer\ddi\gnn.py:380: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\builder\windows\pytorch\torch\csrc\utils\tensor_numpy.cpp:212.)
+  pred = model.type_logits(h, torch.as_tensor(d1, device=device),
+
+== gnn_rgcn_gin | labels=merged | split=random
+  val       AUROC=0.9928 AUPRC=0.9920 F1=0.9605  H@20=0.197  H@50=0.366  H@100=0.570
+  test      AUROC=0.9924 AUPRC=0.9915 F1=0.9590  H@20=0.147  H@50=0.346  H@100=0.573
+  test_hard AUROC=0.9890 AUPRC=0.9888 F1=0.9480  H@20=0.230  H@50=0.373  H@100=0.554
+  type      acc=0.9714 macroF1=0.9443
+  side eff. mean per-SE AUPRC=0.2674 AUROC=0.8158 (915 SEs)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   1 loss=3.1705 val AUPRC=0.7370 (8s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   2 loss=2.5136 val AUPRC=0.7930 (16s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   3 loss=2.0520 val AUPRC=0.8394 (24s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   4 loss=1.6546 val AUPRC=0.8497 (32s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   5 loss=1.4060 val AUPRC=0.8426 (40s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   6 loss=1.2710 val AUPRC=0.8228 (48s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   7 loss=1.1468 val AUPRC=0.8103 (56s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   8 loss=1.0717 val AUPRC=0.8169 (64s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch   9 loss=1.0053 val AUPRC=0.7927 (72s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch  10 loss=0.9595 val AUPRC=0.8101 (80s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch  11 loss=0.9128 val AUPRC=0.8097 (88s)
+D:\test\omer\.venv\Lib\site-packages\torch_geometric\warnings.py:11: UserWarning: The usage of `scatter(reduce='max')` can be accelerated via the 'torch-scatter' package, but it was not found
+  warnings.warn(message)
+[gnn_rgcn_gin merged/cold] epoch  12 loss=0.8773 val AUPRC=0.8202 (96s)
+
+== gnn_rgcn_gin | labels=merged | split=cold
+  val       AUROC=0.8441 AUPRC=0.8497 F1=0.7754  H@20=0.055  H@50=0.077  H@100=0.097
+  test      AUROC=0.8272 AUPRC=0.8301 F1=0.7579  H@20=0.033  H@50=0.045  H@100=0.062
+  test_hard AUROC=0.7900 AUPRC=0.7983 F1=0.7294  H@20=0.030  H@50=0.040  H@100=0.056
+  type      acc=0.6564 macroF1=0.2787
+  side eff. mean per-SE AUPRC=0.1329 AUROC=0.6441 (915 SEs)
